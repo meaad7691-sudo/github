@@ -8,19 +8,19 @@ print(name)
 print(age)
 print(is_new)
 
-# name = input('whats your name? ')
-# print('hello ' + name)
+ name = input('whats your name? ')
+ print('hello ' + name)
 
 
-# name = input('whats your name? ')
-# color = input('whats your fav color? ')
+ name = input('whats your name? ')
+ color = input('whats your fav color? ')
 
-# print(name + " likes " + color)
+ print(name + " likes " + color)
 
 
-# weight_lbs = input('weight(lbs): ')
-# weight_kg =int(weight_lbs) * 0.45
-# print(weight_kg)
+ weight_lbs = input('weight(lbs): ')
+ weight_kg =int(weight_lbs) * 0.45
+ print(weight_kg)
 
 name = "jennifer"
 print(name[1:-1])
