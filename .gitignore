@@ -1,1 +1,3 @@
-print("maybe hi aruno its just experience")
+.env
+__pycache__/
+*.pyc
